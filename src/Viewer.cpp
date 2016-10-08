@@ -1,6 +1,5 @@
 #include "Viewer.h"
 #include "display_descriptor.h"
-#include "rendermanager_config.h"
 
 #include <json/json.h>
 
