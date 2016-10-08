@@ -1,0 +1,20 @@
+{
+  "deviceVendor": "OSVR",
+  "deviceName": "Google Cardboard",
+  "author": "Steve Le Roy Harris <steve@nourish.je>",
+  "version": 1,
+  "lastModified": "2016-09-30T21:13:07.585Z",
+  "interfaces": {
+    "tracker": {
+      "count": 1,
+	  "position": false,
+	  "orientation": true
+    }
+  },
+  "semantic": {
+    "cardboard": "tracker/0"
+  },
+  "automaticAliases": { 
+    "/me/head": "semantic/cardboard"
+  }
+}
