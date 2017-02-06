@@ -1,4 +1,4 @@
-# OSVR-Cardboard
+# OSVR-Cardboard [![Donate](https://nourish.je/assets/images/donate.svg)](http://ko-fi.com/A250KJT)
 
 An OSVR plugin to receive orientation data from a compatible mobile app (like [OSVR-Cardboard-iOS](https://github.com/simlrh/OSVR-Cardboard-iOS)), as well as translating the QR code found on Google Cardboard viewers into an OSVR display config file.
 
